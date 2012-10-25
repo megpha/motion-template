@@ -10,7 +10,7 @@ require 'bubble-wrap/test'
 
 Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
-  app.name = 'motion-template'
+  app.name = 'login-info'
 end
 
 namespace :spec do
